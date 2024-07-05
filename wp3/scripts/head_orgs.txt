@@ -1,0 +1,70 @@
+Ericsson
+Thales
+HP
+Airbus
+Capgemini
+Hewlett packard
+Huawei
+IBM
+Keysights technologies
+Knorr-Bremse
+Nokia
+NXP SEMICONDUCTORS
+ORANGE
+PNO
+PROSEGUR
+SIEMENS
+SNCF
+STMICROELECTRONICS
+SWARCO
+Arcelormittal
+argotech
+ATOS
+BASF
+CARBON
+DEMCON
+Deutsche Telekom
+FORD
+FUJITSU
+Repsol
+boeing
+sintef
+
+SHELL
+volkswagen
+uniper
+totalenergies
+glencore
+bp
+stellantis
+gazprom
+mercedes
+equinor
+bmw
+eni
+ALLIANz
+e.on
+engie
+axa
+dhl
+nestlé
+nestle
+bosch
+ahold
+carrefour
+philips
+assicurazioni generali
+dior
+maersk
+tesco
+munich re
+roche
+omv
+socgen
+unilever
+orlen
+louis dreyfus company
+deutsche bahn
+enbw
+ab inbev
+iberdrola
